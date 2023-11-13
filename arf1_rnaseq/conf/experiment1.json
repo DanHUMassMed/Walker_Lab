@@ -3,8 +3,8 @@
     "process_date":"Oct-19-2023",
     "prepared_by":"Dan Higgins (daniel.higgins@umassmed.edu)",
     "prepared_for":["Amy Walker (Amy.Walker@umassmed.edu)"],
-    "dropbox_folder":"RNA-seq/arf1 & EV RNAseq Working Files",
+    "dropbox_folder":"staging/RNA_AMY",
     "wormbase_version":"WS289",
     "github_release":"https://github.com/DanH-UMassMed/RNA-Seq-Nextflow",
-    "github_tag":"v1.0.4"
+    "github_tag":"v1.0.*"
 }
