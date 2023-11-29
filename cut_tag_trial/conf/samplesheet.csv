@@ -1,0 +1,4 @@
+group,replicate,fastq_1,fastq_2,control
+h3k4me3,1,/home/daniel.higgins-umw/project_data/Walker_Lab/cut_tag_trial/data/fastq/EV-cn-1_R1.fastq.gz,/home/daniel.higgins-umw/project_data/Walker_Lab/cut_tag_trial/data/fastq/EV-cn-1_R2.fastq.gz,igg_ctrl 
+h3k4me3,2,/home/daniel.higgins-umw/project_data/Walker_Lab/cut_tag_trial/data/fastq/EV-cn-2_R1.fastq.gz,/home/daniel.higgins-umw/project_data/Walker_Lab/cut_tag_trial/data/fastq/EV-cn-2_R2.fastq.gz,igg_ctrl
+igg_ctrl,1,/home/daniel.higgins-umw/project_data/Walker_Lab/cut_tag_trial/data/fastq/EV_noAb_R1.fastq.gz,/home/daniel.higgins-umw/project_data/Walker_Lab/cut_tag_trial/data/fastq/EV_noAb_R2.fastq.gz,

@@ -2,7 +2,7 @@
 .nextflow/
 **/data/
 **/results/
-work/
+**/work/
 **/deseq_out
 **/__pycache__
 
