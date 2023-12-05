@@ -1,6 +1,7 @@
 #!/bin/bash
-SEARCH="BOWTIE2_TARGET"
-rm found*.sh
+SEARCH="$1"
+echo ${SEARCH}
+rm -f found*.sh
 count=1
 for d in `find ./work -name .command.sh`;
 do 
