@@ -1,0 +1,29 @@
+"","Category","RGS","AC","PValue"
+"21","Stress response",26,833,2.05174772739782e-05
+"28","Unassigned",117,6343,2.84443541035801e-05
+"9","Metabolism",36,1601,0.00044170449445912
+"17","Proteolysis proteasome",20,733,0.000819430942146826
+"6","Extracellular material",15,495,0.00127642491155003
+"18","Pseudogene",41,2081,0.00211215295977906
+"24","Transcription: chromatin",8,222,0.00611365311836882
+"1","Cell cycle",6,172,0.0187942787093716
+"2","Chaperone",4,92,0.026275717464277
+"16","Proteolysis general",9,394,0.049398761093255
+"8","Lysosome",3,91,0.0972206683141561
+"10","mRNA functions",8,407,0.115582659386374
+"4","Development",6,295,0.141814021207301
+"14","Peroxisome",1,15,0.170514773206676
+"22","Trafficking",4,205,0.22692759055091
+"25","Transcription: general machinery",3,154,0.275712108106108
+"7","Globin",1,36,0.35090628530294
+"23","Transcription factor",8,581,0.378092557744269
+"27","Transmembrane transport",10,901,0.611298126270637
+"5","DNA",2,176,0.612995614111708
+"19","Ribosome",2,244,0.779269766343508
+"3","Cytoskeleton",3,371,0.808287061150088
+"11","Neuronal function",2,308,0.874750378240899
+"13","Nucleic acid",1,231,0.932898430672138
+"15","Protein modification",1,271,0.957800184745681
+"26","Transmembrane protein",21,3200,0.998065401437085
+"20","Signaling",4,1188,0.999403411130279
+"12","Non-coding RNA",4,9535,1

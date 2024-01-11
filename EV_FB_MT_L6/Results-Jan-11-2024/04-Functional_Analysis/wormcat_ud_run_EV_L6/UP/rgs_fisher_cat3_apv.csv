@@ -1,0 +1,12 @@
+"Category","RGS","AC","PValue","Bonferroni"
+"Unassigned: regulated by multiple stresses",228,1707,6.27418805707726e-38,1.23601504724422e-35
+"Extracellular material: collagen",47,184,1.58839313759161e-18,3.12913448105547e-16
+"Cytoskeleton: microtubule: tau tubulin kinase",30,74,8.24912156009002e-17,1.62507694733773e-14
+"Stress response: pathogen: unassigned",33,96,1.32556438534262e-16,2.61136183912496e-14
+"Signaling: phosphatase: Y ",32,90,1.71115635111036e-16,3.37097801168741e-14
+"Signaling: hedgehog-like",22,89,2.59782505291975e-09,5.11771535425191e-07
+"Proteolysis proteasome: E3: F box",50,437,3.57692003891524e-08,7.04653247666302e-06
+"Transmembrane transport: ABC",14,50,5.36681928573673e-07,0.000105726339929014
+"Stress response: pathogen: CUB",10,25,1.63542478822842e-06,0.000322178683280999
+"Proteolysis general: metallopeptidase",20,123,4.51553760034139e-06,0.000889560907267254
+"Stress response: heat",9,30,3.59025776782404e-05,0.00707280780261336

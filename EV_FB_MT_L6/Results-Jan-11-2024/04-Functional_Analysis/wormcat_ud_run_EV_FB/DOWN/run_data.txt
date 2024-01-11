@@ -1,0 +1,3 @@
+runtime: Jan-10-2024-15:11:02
+annotation_version: /usr/local/lib/R/site-library/wormcat/extdata/whole_genome_v2_nov-11-2021.csv
+input_type: Wormbase.ID
