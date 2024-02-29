@@ -1,0 +1,11 @@
+{
+    "title":"Analysis for Walker lab",
+    "process_date":"Feb-29-2024",
+    "prepared_by":"Dan Higgins (daniel.higgins@umassmed.edu)",
+    "prepared_for":["Amy Walker (Amy.Walker@umassmed.edu)"],
+    "dropbox_folder":"/staging/01.RawData",
+    "wormbase_version":"WS289",
+    "pipeline_config":"https://github.com/DanH-UMassMed/Walker_Lab",
+    "github_release":"https://github.com/DanH-UMassMed/RNA-Seq-Nextflow",
+    "github_tag":"v1.0.*"
+}
